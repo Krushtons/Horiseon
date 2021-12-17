@@ -10,3 +10,7 @@ Updates include:
 ## Screenshot
 ![Screenshot of Horiseon website](assets/images/screenshot.png)
 
+## Link
+https://krushtons.github.io/Horiseon/
+
+
